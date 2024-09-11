@@ -1,0 +1,15 @@
+{
+    "pathsToAnalyze": [
+        "contracts/vaults/sushi/vault-sushi-weth-dai.sol",
+        "contracts/vaults/cap/vault-cap-usdc.sol",
+        "contracts/vaults/dodo/vault-dodo-usdc.sol",
+        "contracts/vaults/dpx/vault-dpx-weth-rdpx.sol",
+        "contracts/vaults/fish/vault-fish-ageur-usdc.sol",
+        "contracts/vaults/gmx/vault-gmx-x-gmx.sol",
+        "contracts/vaults/hop/vault-hop-dai.sol",
+        "contracts/vaults/jones/vault-jones-weth-jones.sol",
+        "contracts/vaults/liquid/vault-liquid-lqdEth-eth.sol",
+        "contracts/vaults/plutus/vault-plutus-pls-weth.sol",
+        "contracts/vaults/stargate/vault-stargate-usdc.sol"
+    ]
+}
