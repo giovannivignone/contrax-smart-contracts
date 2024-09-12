@@ -1,15 +1,15 @@
 {
     "pathsToAnalyze": [
+        "**/contracts/exchange/sushi/exchange.*",
+        "**/contracts/controllers/controller.*",
+        "**/contracts/controllers/sushi-controller.*",
+        "**/contracts/strategies/strategy-base.*",
+        "**/contracts/zapper/zapper-base.*",
+        "**/contracts/zapper/vault-zapper.*",
+        "**/contracts/strategies/sushi/strategy-sushi-weth-dai.*",
+        "**/contracts/controllers/sushi-controller.*",
         "**/contracts/vaults/sushi/vault-sushi-weth-dai.*",
         "**/contracts/vaults/cap/vault-cap-usdc.*",
-        "**/contracts/vaults/dodo/vault-dodo-usdc.*",
-        "**/contracts/vaults/dpx/vault-dpx-weth-rdpx.*",
-        "**/contracts/vaults/fish/vault-fish-ageur-usdc.*",
-        "**/contracts/vaults/gmx/vault-gmx-x-gmx.*",
-        "**/contracts/vaults/hop/vault-hop-dai.*",
-        "**/contracts/vaults/jones/vault-jones-weth-jones.*",
-        "**/contracts/vaults/liquid/vault-liquid-lqdEth-eth.*",
-        "**/contracts/vaults/plutus/vault-plutus-pls-weth.*",
-        "**/contracts/vaults/stargate/vault-stargate-usdc.*"
+        "**/contracts/vaults/dpx/vault-dpx-weth-rdpx.*"
     ]
 }
